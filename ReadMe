@@ -1,0 +1,25 @@
+This project holds the U.S. 2016 Presidential Candidates Tweets Dataset described in our COLING 2016 paper. 
+
+The format of the CSV files is: Tweet ID, Issue
+
+If the cells for the issue label are blank, then that tweet does not correspond to any of the issues studied in the paper and was not used in the work.
+
+The issue labels represent the issues the tweet refers to and are as follows: 
+
+abort -> Abortion and Planned Parenthood
+aca -> Affordable Care Act (ACA) or Obamacare
+confed -> confederate flag
+drugs -> legalization of marijuana
+enviro -> environmental concerns (global warming etc.)
+guns -> gun control, gun rights, and gun violence
+immig -> Immigration reform, illegal immigration, and the Dream Act
+iran -> Iran nuclear deal or weapons
+isis -> Terrorism, ISIS, ISIL
+marriage -> LGBTQ marriage equality
+nsa -> NSA and the Patriot Act
+pay -> Equal pay
+religion -> RFRA and religious freedom
+socialsec -> Social Security and retirement
+student -> student loan debt
+tpp -> Trans-Pacific Partnership trade agreement
+
